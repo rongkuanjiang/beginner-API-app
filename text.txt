@@ -1,0 +1,5 @@
+1. install express by initializing npm
+2. create an express app
+3. define that for a get method to some url, you do something
+4. start accepting requests
+5. run the app with node
